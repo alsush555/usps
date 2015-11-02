@@ -1,0 +1,4 @@
+login: --tags @login --format html --out report.html --format pretty
+nouser: --tags @no_user --format html --out report.html --format pretty
+wrongpassword: --tags @wrong_password --format html --out report.html --format pretty
+zipcode: --tags @zipcode --format html --out report.html --format pretty
